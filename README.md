@@ -19,6 +19,4 @@ Poor Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanvishGG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=TanvishGG&theme=juicyfresh&no-bg=true" />
-
 ---
