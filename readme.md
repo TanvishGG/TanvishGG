@@ -9,11 +9,11 @@
 
 ---
 
-[![Github Overview](https://api.tanvish.me/git-stats)](https://github.com/TanvishGG)
+[![Github Overview](https://api.tanvish.me/git-stats?q)](https://github.com/TanvishGG)
 
 ---
 
-<img src="https://api.tanvish.me/git-language" alt="ovi" />
+<img src="https://api.tanvish.me/git-language?q" alt="ovi" />
 
 
 ---
