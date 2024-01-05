@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi, Im Tanvish
 
 <!--
-**TanvishGG/TanvishGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Poor Stats
+
+[![Github Overview](https://github-readme-stats.vercel.app/api?username=TanvishGG&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)](https://github.com/TanvishGG)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanvishGG&theme=dark&hide_border=false)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanvishGG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=TanvishGG&theme=juicyfresh&no-bg=true" />
+
+---
