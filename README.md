@@ -1,4 +1,4 @@
-### Hi, Im Tanvish
+### Hi, Im Tanvish.
 
 - 📫 How to reach me: tanvish@tanvish.me
 - 😄 Pronouns: he/him
