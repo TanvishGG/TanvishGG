@@ -1,19 +1,19 @@
 ### Hi, Im Tanvish.
 
-- 📫 How to reach me: tanvish@tanvish.me
+- 📫 How to reach me: tanvish@tanvish.fun
 - 😄 Pronouns: he/him
-- 🌍 Website: https://tanvish.me
+- 🌍 Website: https://tanvish.fun
 - 🗣️ Language: Telugu, Hindi, English
 
 ### GitHub Statistics
 
 ---
 
-[![Github Overview](https://api-tanvish.azurewebsites.net/git-stats)](https://github.com/TanvishGG)
+[![Github Overview](https://api.tanvish.fun/git-stats)](https://github.com/TanvishGG)
 
 ---
 
-<img src="https://api-tanvish.azurewebsites.net/git-language" alt="ovi" />
+<img src="https://api.tanvish.fun/git-language"/>
 
 
 ---
