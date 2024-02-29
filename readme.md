@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://api.tanvish.fun/git-language"/>
+[![Github Language Overview]("https://api.tanvish.fun/git-language")](https://github.com/TanvishGG)
 
 
 ---
