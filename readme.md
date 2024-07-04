@@ -3,6 +3,7 @@
 - 📫 How to reach me: tanvish@tanvish.fun
 - 😄 Pronouns: he/him
 - 🌍 Website: https://tanvish.fun
+- Computer Languages: JavaScript, Nodejs, Java, Python, Html, CSS, PostgreSQL 
 - 🗣️ Language: Telugu, Hindi, English
 
 ### GitHub Statistics
