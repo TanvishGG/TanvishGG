@@ -1,10 +1,24 @@
-### Hi, Im Tanvish.
+# Tanvish Reddy Sanikommu
 
-- 📫 How to reach me: tanvish@tanvish.co.in
-- 😄 Pronouns: he/him
-- 🌍 Website: https://tanvish.co.in
-- Computer Languages: JavaScript, Nodejs, Java, Python, Html, CSS, PostgreSQL 
-- 🗣️ Language: Telugu, Hindi, English
+**Web & App Developer** | *CS Undergrad at VIT-AP University*
+
+Passionate about building seamless web and mobile experiences. Currently focused on React Native and scalable backend systems.
+
+---
+
+### ⚡ Experience
+* **App Developer Intern** @ Vectr (Dec 2024 - Present)
+* **Web and App Developer Intern** @ Vyuha Innovation (Oct 2025 - Present)
+
+### 🛠 Tech Stack
+* **Languages:** JavaScript (ES6+), TypeScript, Java, Python, Dart, SQL, C, C++
+* **Core:** React, React Native, Next.js, Flutter, Node.js, Express
+* **Tools:** PostgreSQL, Prisma, HTML5, CSS3, Tailwind, Azure, Android Studio, Google Play Console
+
+### 📫 Connect
+* **Website:** [tanvish.co.in](https://tanvish.co.in)
+* **Email:** [tanvish@tanvish.co.in](mailto:tanvish@tanvish.co.in)
+* **Spoken Languages:** English, Telugu, Hindi
 
 ### GitHub Statistics
 
