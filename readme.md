@@ -7,8 +7,8 @@ Passionate about building seamless web and mobile experiences. Currently focused
 ---
 
 ### ⚡ Experience
-* **App Developer Intern** @ Vectr (Dec 2024 - Present)
 * **Web and App Developer Intern** @ Vyuha Innovation (Oct 2025 - Present)
+* **App Developer Intern** @ Vectr (Dec 2024 - Oct 25)
 
 ### 🛠 Tech Stack
 * **Languages:** JavaScript (ES6+), TypeScript, Java, Python, Dart, SQL, C, C++
